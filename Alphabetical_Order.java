@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exo_3 {
+public class exo {
 	static Scanner sc = new Scanner(System.in);
 	static String[] mots = new String[30];
 	static String phrase;
